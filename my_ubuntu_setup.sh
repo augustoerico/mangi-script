@@ -26,6 +26,9 @@ sudo nvm install 7.10.0
 sudo nvm use 7.10.0
 node -v
 
+# OpenAPI Spec to NodeJS
+npm install -g swagger-node-codegen
+
 #nodemon
 sudo npm install -g nodemon
 sudo npm install -g loopback-cli
